@@ -1,0 +1,26 @@
+[{
+    "file": "fgo-material-I.json",
+    "title": "Fate/Grand Order Material I",
+    "description": "Digital Images of FGO Material I",
+    "publisher": "©TYPE-MOON",
+    "cover": "https://i.imgur.com/rUWI0KT.png",
+    "chapters": 38,
+    "lastChapterIndex": "38",
+    "lastChapter": {
+        "title": "Fate/Grand Order Material - I",
+        "volume": "1",
+        "last_updated": "1706205889",
+        "Publisher": {
+            "©TYPE-MOON": [
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-344.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-345.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-346.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-347.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-348.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-349.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-350.jpg?raw=true",
+                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-351.jpg?raw=true"
+            ]
+        }
+    }
+}]
