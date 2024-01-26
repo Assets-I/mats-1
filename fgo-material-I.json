@@ -1,13 +1,13 @@
 {
-    "title": "Fate/Grand Order Material - I",
-    "description": "Digital Images of FGO Material I",
+    "title": "Fate/Grand Order Materials",
+    "description": "Digital Images of FGO Material",
     "publisher": "©TYPE-MOON",
     "cover": "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/cover.jpg?raw=true",
     "chapters": {
         "1": {
-            "title": "Cover and Cast",
+            "title": "Mats 1 Cover and Main Cast",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/cover.jpg?raw=true",
@@ -26,7 +26,7 @@
         "2": {
             "title": "Mash Kyrielight",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-010.jpg?raw=true",
@@ -45,7 +45,7 @@
         "3": {
             "title": "Artoria Pendragon",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-020.jpg?raw=true",
@@ -60,7 +60,7 @@
         "4": {
             "title": "Artoria Pendragon (Alter)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-026.jpg?raw=true",
@@ -77,7 +77,7 @@
         "5": {
             "title": "Artoria Pendragon (Lily)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-034.jpg?raw=true",
@@ -94,7 +94,7 @@
         "6": {
             "title": "Nero Claudius",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-042.jpg?raw=true",
@@ -111,7 +111,7 @@
         "7": {
             "title": "Siegfried",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-050.jpg?raw=true",
@@ -130,7 +130,7 @@
         "8": {
             "title": "Gaius Julius Caesar",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-060.jpg?raw=true",
@@ -149,7 +149,7 @@
         "9": {
             "title": "Altera",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-070.jpg?raw=true",
@@ -168,7 +168,7 @@
         "10": {
             "title": "Gilles de Rais (Saber)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-080.jpg?raw=true",
@@ -187,7 +187,7 @@
         "11": {
             "title": "Chevalier d'Eon",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-090.jpg?raw=true",
@@ -206,7 +206,7 @@
         "12": {
             "title": "EMIYA",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-100.jpg?raw=true",
@@ -223,7 +223,7 @@
         "13": {
             "title": "Gilgamesh",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-108.jpg?raw=true",
@@ -238,7 +238,7 @@
         "14": {
             "title": "Robin Hood",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-114.jpg?raw=true",
@@ -257,7 +257,7 @@
         "15": {
             "title": "Atalanta",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-124.jpg?raw=true",
@@ -276,7 +276,7 @@
         "16": {
             "title": "Euryale",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-134.jpg?raw=true",
@@ -295,7 +295,7 @@
         "17": {
             "title": "Arash",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-144.jpg?raw=true",
@@ -314,7 +314,7 @@
         "18": {
             "title": "Cú Chulainn",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-154.jpg?raw=true",
@@ -331,7 +331,7 @@
         "19": {
             "title": "Elizabeth Báthory",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-162.jpg?raw=true",
@@ -350,7 +350,7 @@
         "20": {
             "title": "Musashibō Benkei",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-172.jpg?raw=true",
@@ -365,7 +365,7 @@
         "21": {
             "title": "Cú Chulainn (Prototype)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-178.jpg?raw=true",
@@ -378,7 +378,7 @@
         "22": {
             "title": "Leonidas I",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-182.jpg?raw=true",
@@ -397,7 +397,7 @@
         "23": {
             "title": "Romulus",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-192.jpg?raw=true",
@@ -418,7 +418,7 @@
         "24": {
             "title": "Medusa",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-204.jpg?raw=true",
@@ -435,7 +435,7 @@
         "25": {
             "title": "Georgios",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-212.jpg?raw=true",
@@ -452,7 +452,7 @@
         "26": {
             "title": "Edward Teach",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-220.jpg?raw=true",
@@ -471,7 +471,7 @@
         "27": {
             "title": "Boudica",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-230.jpg?raw=true",
@@ -490,7 +490,7 @@
         "28": {
             "title": "Ushiwakamaru",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-240.jpg?raw=true",
@@ -511,7 +511,7 @@
         "29": {
             "title": "Alexander",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-252.jpg?raw=true",
@@ -528,7 +528,7 @@
         "30": {
             "title": "Marie Antoinette",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-260.jpg?raw=true",
@@ -545,7 +545,7 @@
         "31": {
             "title": "Martha",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-268.jpg?raw=true",
@@ -566,7 +566,7 @@
         "32": {
             "title": "Medea",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-280.jpg?raw=true",
@@ -581,7 +581,7 @@
         "33": {
             "title": "Gilles de Rais (Caster)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-286.jpg?raw=true",
@@ -596,7 +596,7 @@
         "34": {
             "title": "Hans Christian Andersen",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-292.jpg?raw=true",
@@ -615,7 +615,7 @@
         "35": {
             "title": "William Shakespeare",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-302.jpg?raw=true",
@@ -634,7 +634,7 @@
         "36": {
             "title": "Mephistopheles",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-312.jpg?raw=true",
@@ -655,7 +655,7 @@
         "37": {
             "title": "Wolfgang Amadeus Mozart",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-324.jpg?raw=true",
@@ -676,7 +676,7 @@
         "38": {
             "title": "Zhuge Liang (Lord El-Melloi II)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-336.jpg?raw=true",
@@ -693,7 +693,7 @@
         "38": {
             "title": "Cú Chulainn (Caster)",
             "volume": "1",
-            "last_updated": "1706205889",
+            "last_updated": "1469084400",
             "groups": {
                 "©TYPE-MOON": [
                     "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-344.jpg?raw=true",
