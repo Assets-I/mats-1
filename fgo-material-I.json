@@ -1,944 +1,1350 @@
 {
-    "title": "Fate/Grand Order Materials",
-    "description": "Digital Images of FGO Material",
-    "publisher": "©TYPE-MOON",
-    "cover": "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/cover.jpg?raw=true",
-    "chapters": {
-        "1": {
-            "title": "Mats 1 Cover and Main Cast",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/cover.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-001.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-002.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-003.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-004.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-005.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-006.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-007.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-008.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-009.jpg?raw=true"					
-                ]
-            }
-        },
-        "2": {
-            "title": "Mash Kyrielight",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-010.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-011.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-012.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-013.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-014.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-015.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-016.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-017.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-018.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-019.jpg?raw=true"				
-                ]
-            }
-        },
-        "3": {
-            "title": "Artoria Pendragon",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-020.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-021.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-022.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-023.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-024.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-025.jpg?raw=true"			
-                ]
-            }
-        },	
-        "4": {
-            "title": "Artoria Pendragon (Alter)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-026.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-027.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-028.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-029.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-030.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-031.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-032.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-033.jpg?raw=true"		
-                ]
-            }
-        },	
-        "5": {
-            "title": "Artoria Pendragon (Lily)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-034.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-035.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-036.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-037.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-038.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-039.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-040.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-041.jpg?raw=true"	
-                ]
-            }
-        },
-        "6": {
-            "title": "Nero Claudius",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-042.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-043.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-044.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-045.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-046.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-047.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-048.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-049.jpg?raw=true"
-                ]
-            }
-        },
-        "7": {
-            "title": "Siegfried",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-050.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-051.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-052.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-053.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-054.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-055.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-056.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-057.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-058.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-059.jpg?raw=true"
-                ]
-            }
-        },
-        "8": {
-            "title": "Gaius Julius Caesar",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-060.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-061.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-062.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-063.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-064.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-065.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-066.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-067.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-068.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-069.jpg?raw=true"
-                ]
-            }
-        },
-        "9": {
-            "title": "Altera",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-070.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-071.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-072.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-073.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-074.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-075.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-076.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-077.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-078.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-079.jpg?raw=true"
-                ]
-            }
-        },		
-        "10": {
-            "title": "Gilles de Rais (Saber)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-080.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-081.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-082.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-083.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-084.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-085.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-086.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-087.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-088.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-089.jpg?raw=true"
-                ]
-            }
-        },
-        "11": {
-            "title": "Chevalier d'Eon",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-090.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-091.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-092.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-093.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-094.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-095.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-096.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-097.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-098.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-099.jpg?raw=true"
-                ]
-            }
-        },
-        "12": {
-            "title": "EMIYA",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-100.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-101.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-102.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-103.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-104.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-105.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-106.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-107.jpg?raw=true"
-                ]
-            }
-        },
-        "13": {
-            "title": "Gilgamesh",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-108.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-109.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-110.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-111.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-112.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-113.jpg?raw=true"
-                ]
-            }
-        },
-        "14": {
-            "title": "Robin Hood",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-114.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-115.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-116.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-117.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-118.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-119.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-120.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-121.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-122.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-123.jpg?raw=true"
-                ]
-            }
-        },
-        "15": {
-            "title": "Atalanta",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-124.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-125.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-126.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-127.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-128.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-129.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-130.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-131.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-132.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-133.jpg?raw=true"
-                ]
-            }
-        },
-        "16": {
-            "title": "Euryale",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-134.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-135.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-136.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-137.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-138.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-139.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-140.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-141.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-142.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-143.jpg?raw=true"
-                ]
-            }
-        },
-        "17": {
-            "title": "Arash",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-144.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-145.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-146.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-147.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-148.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-149.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-150.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-151.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-152.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-153.jpg?raw=true"
-                ]
-            }
-        },
-        "18": {
-            "title": "Cú Chulainn",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-154.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-155.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-156.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-157.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-158.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-159.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-160.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-161.jpg?raw=true"
-                ]
-            }
-        },
-        "19": {
-            "title": "Elizabeth Báthory",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-162.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-163.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-164.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-165.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-166.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-167.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-168.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-169.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-170.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-171.jpg?raw=true"
-                ]
-            }
-        },
-        "20": {
-            "title": "Musashibō Benkei",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-172.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-173.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-174.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-175.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-176.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-177.jpg?raw=true"
-                ]
-            }
-        },
-        "21": {
-            "title": "Cú Chulainn (Prototype)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-178.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-179.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-180.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-181.jpg?raw=true"
-                ]
-            }
-        },
-        "22": {
-            "title": "Leonidas I",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-182.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-183.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-184.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-185.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-186.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-187.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-188.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-189.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-190.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-191.jpg?raw=true"
-                ]
-            }
-        },
-        "23": {
-            "title": "Romulus",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-192.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-193.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-194.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-195.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-196.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-197.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-198.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-199.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-200.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-201.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-202.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-203.jpg?raw=true"
-                ]
-            }
-        },
-        "24": {
-            "title": "Medusa",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-204.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-205.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-206.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-207.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-208.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-209.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-210.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-211.jpg?raw=true"
-                ]
-            }
-        },
-        "25": {
-            "title": "Georgios",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-212.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-213.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-214.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-215.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-216.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-217.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-218.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-219.jpg?raw=true"
-                ]
-            }
-        },
-        "26": {
-            "title": "Edward Teach",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-220.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-221.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-222.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-223.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-224.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-225.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-226.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-227.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-228.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-229.jpg?raw=true"
-                ]
-            }
-        },
-        "27": {
-            "title": "Boudica",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-230.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-231.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-232.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-233.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-234.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-235.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-236.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-237.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-238.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-239.jpg?raw=true"
-                ]
-            }
-        },
-        "28": {
-            "title": "Ushiwakamaru",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-240.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-241.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-242.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-243.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-244.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-245.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-246.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-247.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-248.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-249.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-250.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-251.jpg?raw=true"
-                ]
-            }
-        },
-        "29": {
-            "title": "Alexander",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-252.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-253.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-254.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-255.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-256.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-257.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-258.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-259.jpg?raw=true"
-                ]
-            }
-        },
-        "30": {
-            "title": "Marie Antoinette",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-260.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-261.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-262.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-263.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-264.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-265.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-266.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-267.jpg?raw=true"
-                ]
-            }
-        },
-        "31": {
-            "title": "Martha",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-268.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-269.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-270.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-271.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-272.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-273.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-274.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-275.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-276.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-277.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-278.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-279.jpg?raw=true"
-                ]
-            }
-        },
-        "32": {
-            "title": "Medea",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-280.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-281.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-282.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-283.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-284.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-285.jpg?raw=true"
-                ]
-            }
-        },
-        "33": {
-            "title": "Gilles de Rais (Caster)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-286.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-287.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-288.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-289.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-290.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-291.jpg?raw=true"
-                ]
-            }
-        },
-        "34": {
-            "title": "Hans Christian Andersen",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-292.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-293.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-294.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-295.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-296.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-297.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-298.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-299.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-300.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-301.jpg?raw=true"
-                ]
-            }
-        },
-        "35": {
-            "title": "William Shakespeare",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-302.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-303.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-304.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-305.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-306.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-307.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-308.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-309.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-310.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-311.jpg?raw=true"
-                ]
-            }
-        },
-        "36": {
-            "title": "Mephistopheles",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-312.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-313.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-314.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-315.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-316.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-317.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-318.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-319.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-320.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-321.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-322.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-323.jpg?raw=true"
-                ]
-            }
-        },
-        "37": {
-            "title": "Wolfgang Amadeus Mozart",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-324.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-325.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-326.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-327.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-328.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-329.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-330.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-331.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-332.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-333.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-334.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-335.jpg?raw=true"
-                ]
-            }
-        },
-        "38": {
-            "title": "Zhuge Liang (Lord El-Melloi II)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-336.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-337.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-338.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-339.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-340.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-341.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-342.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-343.jpg?raw=true"
-                ]
-            }
-        },
-        "38": {
-            "title": "Cú Chulainn (Caster)",
-            "volume": "1",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-344.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-345.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-346.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-347.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-348.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-349.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-350.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-351.jpg?raw=true"
-                ]
-            }
-        },
-        "39": {
-            "title": "Mats 2 Cover and Background CGs",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/cover.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-001.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-002.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-003.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-320.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-321.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-322.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-323.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-324.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-325.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-326.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-327.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-328.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-329.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-330.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-331.jpg?raw=true"					
-                ]
-            }
-        },
-        "40": {
-            "title": "Sasaki Kojirou",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-004.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-005.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-006.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-007.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-008.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-009.jpg?raw=true"					
-                ]
-            }
-        },
-        "41": {
-            "title": "Hassan of the Cursed Arm",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-010.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-011.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-012.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-013.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-014.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-015.jpg?raw=true"					
-                ]
-            }
-        },
-        "42": {
-            "title": "Stheno",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-016.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-017.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-018.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-019.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-020.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-021.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-022.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-023.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-024.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-025.jpg?raw=true"					
-                ]
-            }
-        },
-        "43": {
-            "title": "Jing Ke",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-026.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-027.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-028.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-029.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-030.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-031.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-032.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-033.jpg?raw=true"					
-                ]
-            }
-        },
-        "44": {
-            "title": "Charles-Henri Sanson",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-034.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-035.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-036.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-037.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-038.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-039.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-040.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-041.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-042.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-043.jpg?raw=true"					
-                ]
-            }
-        },
-        "45": {
-            "title": "Phantom of the Opera",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-044.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-045.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-046.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-047.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-048.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-049.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-050.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-051.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-052.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-053.jpg?raw=true"					
-                ]
-            }
-        },
-        "46": {
-            "title": "Mata Hari",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-054.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-055.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-056.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-057.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-058.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-059.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-060.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-061.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-062.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-063.jpg?raw=true"					
-                ]
-            }
-        },
-        "47": {
-            "title": "Carmilla",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-064.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-065.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-066.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-067.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-068.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-069.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-070.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-071.jpg?raw=true"					
-                ]
-            }
-        },
-        "48": {
-            "title": "Heracles",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-072.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-073.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-074.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-075.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-076.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-077.jpg?raw=true"					
-                ]
-            }
-        },
-        "49": {
-            "title": "Lancelot (Berserker)",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-078.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-079.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-080.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-081.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-082.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-083.jpg?raw=true"					
-                ]
-            }
-        },
-        "50": {
-            "title": "Lu Bu Fengxian",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-084.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-085.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-086.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-087.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-088.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-089.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-090.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-091.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-092.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-093.jpg?raw=true"					
-                ]
-            }
-        },
-        "51": {
-            "title": "Spartacus",
-            "volume": "2",
-            "last_updated": "1469084400",
-            "groups": {
-                "©TYPE-MOON": [
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-094.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-095.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-096.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-097.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-098.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-099.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-100.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-101.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-102.jpg?raw=true",
-                    "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-103.jpg?raw=true"					
-                ]
-            }
-        }		
+  "title": "Fate/Grand Order Materials",
+  "description": "Digital Images of FGO Material",
+  "publisher": "©TYPE-MOON",
+  "cover": "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/cover.jpg?raw=true",
+  "chapters": {
+    "1": {
+      "title": "Mats 1 Cover and Main Cast",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/cover.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-001.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-002.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-003.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-004.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-005.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-006.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-007.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-008.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-009.jpg?raw=true"
+        ]
+      }
+    },
+    "2": {
+      "title": "Mash Kyrielight",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-010.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-011.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-012.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-013.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-014.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-015.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-016.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-017.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-018.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-019.jpg?raw=true"
+        ]
+      }
+    },
+    "3": {
+      "title": "Artoria Pendragon",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-020.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-021.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-022.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-023.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-024.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-025.jpg?raw=true"
+        ]
+      }
+    },
+    "4": {
+      "title": "Artoria Pendragon (Alter)",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-026.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-027.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-028.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-029.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-030.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-031.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-032.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-033.jpg?raw=true"
+        ]
+      }
+    },
+    "5": {
+      "title": "Artoria Pendragon (Lily)",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-034.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-035.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-036.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-037.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-038.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-039.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-040.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-041.jpg?raw=true"
+        ]
+      }
+    },
+    "6": {
+      "title": "Nero Claudius",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-042.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-043.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-044.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-045.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-046.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-047.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-048.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-049.jpg?raw=true"
+        ]
+      }
+    },
+    "7": {
+      "title": "Siegfried",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-050.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-051.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-052.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-053.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-054.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-055.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-056.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-057.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-058.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-059.jpg?raw=true"
+        ]
+      }
+    },
+    "8": {
+      "title": "Gaius Julius Caesar",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-060.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-061.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-062.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-063.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-064.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-065.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-066.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-067.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-068.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-069.jpg?raw=true"
+        ]
+      }
+    },
+    "9": {
+      "title": "Altera",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-070.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-071.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-072.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-073.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-074.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-075.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-076.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-077.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-078.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-079.jpg?raw=true"
+        ]
+      }
+    },
+    "10": {
+      "title": "Gilles de Rais (Saber)",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-080.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-081.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-082.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-083.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-084.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-085.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-086.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-087.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-088.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-089.jpg?raw=true"
+        ]
+      }
+    },
+    "11": {
+      "title": "Chevalier d'Eon",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-090.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-091.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-092.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-093.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-094.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-095.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-096.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-097.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-098.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-099.jpg?raw=true"
+        ]
+      }
+    },
+    "12": {
+      "title": "EMIYA",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-100.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-101.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-102.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-103.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-104.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-105.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-106.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-107.jpg?raw=true"
+        ]
+      }
+    },
+    "13": {
+      "title": "Gilgamesh",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-108.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-109.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-110.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-111.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-112.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-113.jpg?raw=true"
+        ]
+      }
+    },
+    "14": {
+      "title": "Robin Hood",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-114.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-115.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-116.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-117.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-118.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-119.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-120.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-121.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-122.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-123.jpg?raw=true"
+        ]
+      }
+    },
+    "15": {
+      "title": "Atalanta",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-124.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-125.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-126.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-127.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-128.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-129.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-130.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-131.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-132.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-133.jpg?raw=true"
+        ]
+      }
+    },
+    "16": {
+      "title": "Euryale",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-134.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-135.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-136.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-137.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-138.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-139.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-140.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-141.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-142.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-143.jpg?raw=true"
+        ]
+      }
+    },
+    "17": {
+      "title": "Arash",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-144.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-145.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-146.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-147.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-148.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-149.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-150.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-151.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-152.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-153.jpg?raw=true"
+        ]
+      }
+    },
+    "18": {
+      "title": "Cú Chulainn",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-154.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-155.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-156.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-157.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-158.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-159.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-160.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-161.jpg?raw=true"
+        ]
+      }
+    },
+    "19": {
+      "title": "Elizabeth Báthory",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-162.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-163.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-164.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-165.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-166.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-167.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-168.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-169.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-170.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-171.jpg?raw=true"
+        ]
+      }
+    },
+    "20": {
+      "title": "Musashibō Benkei",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-172.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-173.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-174.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-175.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-176.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-177.jpg?raw=true"
+        ]
+      }
+    },
+    "21": {
+      "title": "Cú Chulainn (Prototype)",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-178.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-179.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-180.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-181.jpg?raw=true"
+        ]
+      }
+    },
+    "22": {
+      "title": "Leonidas I",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-182.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-183.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-184.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-185.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-186.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-187.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-188.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-189.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-190.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-191.jpg?raw=true"
+        ]
+      }
+    },
+    "23": {
+      "title": "Romulus",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-192.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-193.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-194.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-195.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-196.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-197.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-198.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-199.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-200.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-201.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-202.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-203.jpg?raw=true"
+        ]
+      }
+    },
+    "24": {
+      "title": "Medusa",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-204.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-205.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-206.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-207.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-208.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-209.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-210.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-211.jpg?raw=true"
+        ]
+      }
+    },
+    "25": {
+      "title": "Georgios",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-212.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-213.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-214.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-215.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-216.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-217.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-218.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-219.jpg?raw=true"
+        ]
+      }
+    },
+    "26": {
+      "title": "Edward Teach",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-220.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-221.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-222.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-223.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-224.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-225.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-226.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-227.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-228.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-229.jpg?raw=true"
+        ]
+      }
+    },
+    "27": {
+      "title": "Boudica",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-230.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-231.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-232.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-233.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-234.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-235.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-236.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-237.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-238.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-239.jpg?raw=true"
+        ]
+      }
+    },
+    "28": {
+      "title": "Ushiwakamaru",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-240.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-241.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-242.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-243.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-244.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-245.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-246.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-247.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-248.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-249.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-250.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-251.jpg?raw=true"
+        ]
+      }
+    },
+    "29": {
+      "title": "Alexander",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-252.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-253.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-254.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-255.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-256.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-257.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-258.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-259.jpg?raw=true"
+        ]
+      }
+    },
+    "30": {
+      "title": "Marie Antoinette",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-260.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-261.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-262.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-263.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-264.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-265.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-266.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-267.jpg?raw=true"
+        ]
+      }
+    },
+    "31": {
+      "title": "Martha",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-268.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-269.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-270.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-271.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-272.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-273.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-274.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-275.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-276.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-277.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-278.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-279.jpg?raw=true"
+        ]
+      }
+    },
+    "32": {
+      "title": "Medea",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-280.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-281.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-282.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-283.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-284.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-285.jpg?raw=true"
+        ]
+      }
+    },
+    "33": {
+      "title": "Gilles de Rais (Caster)",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-286.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-287.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-288.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-289.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-290.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-291.jpg?raw=true"
+        ]
+      }
+    },
+    "34": {
+      "title": "Hans Christian Andersen",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-292.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-293.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-294.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-295.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-296.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-297.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-298.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-299.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-300.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-301.jpg?raw=true"
+        ]
+      }
+    },
+    "35": {
+      "title": "William Shakespeare",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-302.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-303.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-304.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-305.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-306.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-307.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-308.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-309.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-310.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-311.jpg?raw=true"
+        ]
+      }
+    },
+    "36": {
+      "title": "Mephistopheles",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-312.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-313.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-314.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-315.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-316.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-317.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-318.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-319.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-320.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-321.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-322.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-323.jpg?raw=true"
+        ]
+      }
+    },
+    "37": {
+      "title": "Wolfgang Amadeus Mozart",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-324.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-325.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-326.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-327.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-328.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-329.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-330.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-331.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-332.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-333.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-334.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-335.jpg?raw=true"
+        ]
+      }
+    },
+    "38": {
+      "title": "Cú Chulainn (Caster)",
+      "volume": "1",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-344.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-345.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-346.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-347.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-348.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-349.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-350.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-I/i-351.jpg?raw=true"
+        ]
+      }
+    },
+    "39": {
+      "title": "Mats 2 Cover and Background CGs",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/cover.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-001.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-002.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-003.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-320.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-321.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-322.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-323.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-324.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-325.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-326.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-327.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-328.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-329.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-330.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-331.jpg?raw=true"
+        ]
+      }
+    },
+    "40": {
+      "title": "Sasaki Kojirou",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-004.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-005.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-006.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-007.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-008.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-009.jpg?raw=true"
+        ]
+      }
+    },
+    "41": {
+      "title": "Hassan of the Cursed Arm",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-010.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-011.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-012.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-013.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-014.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-015.jpg?raw=true"
+        ]
+      }
+    },
+    "42": {
+      "title": "Stheno",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-016.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-017.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-018.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-019.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-020.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-021.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-022.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-023.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-024.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-025.jpg?raw=true"
+        ]
+      }
+    },
+    "43": {
+      "title": "Jing Ke",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-026.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-027.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-028.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-029.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-030.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-031.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-032.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-033.jpg?raw=true"
+        ]
+      }
+    },
+    "44": {
+      "title": "Charles-Henri Sanson",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-034.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-035.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-036.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-037.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-038.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-039.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-040.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-041.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-042.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-043.jpg?raw=true"
+        ]
+      }
+    },
+    "45": {
+      "title": "Phantom of the Opera",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-044.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-045.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-046.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-047.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-048.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-049.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-050.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-051.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-052.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-053.jpg?raw=true"
+        ]
+      }
+    },
+    "46": {
+      "title": "Mata Hari",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-054.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-055.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-056.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-057.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-058.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-059.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-060.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-061.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-062.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-063.jpg?raw=true"
+        ]
+      }
+    },
+    "47": {
+      "title": "Carmilla",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-064.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-065.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-066.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-067.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-068.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-069.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-070.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-071.jpg?raw=true"
+        ]
+      }
+    },
+    "48": {
+      "title": "Heracles",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-072.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-073.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-074.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-075.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-076.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-077.jpg?raw=true"
+        ]
+      }
+    },
+    "49": {
+      "title": "Lancelot (Berserker)",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-078.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-079.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-080.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-081.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-082.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-083.jpg?raw=true"
+        ]
+      }
+    },
+    "50": {
+      "title": "Lu Bu Fengxian",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-084.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-085.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-086.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-087.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-088.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-089.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-090.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-091.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-092.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-093.jpg?raw=true"
+        ]
+      }
+    },
+    "51": {
+      "title": "Spartacus",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-094.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-095.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-096.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-097.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-098.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-099.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-100.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-101.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-102.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-103.jpg?raw=true"
+        ]
+      }
+    },
+    "52": {
+      "title": "Sakata Kintoki",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-104.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-105.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-106.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-107.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-108.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-109.jpg?raw=true"
+        ]
+      }
+    },
+    "53": {
+      "title": "Vlad III",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-110.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-111.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-112.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-113.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-114.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-115.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-116.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-117.jpg?raw=true"
+        ]
+      }
+    },
+    "54": {
+      "title": "Asterios",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-118.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-119.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-120.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-121.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-122.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-123.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-124.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-125.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-126.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-127.jpg?raw=true"
+        ]
+      }
+    },
+    "55": {
+      "title": "Caligula",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-128.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-129.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-130.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-131.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-132.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-133.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-134.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-135.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-136.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-137.jpg?raw=true"
+        ]
+      }
+    },
+    "56": {
+      "title": "Darius III",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-138.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-139.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-140.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-141.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-142.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-143.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-144.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-145.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-146.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-147.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-148.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-149.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-150.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-151.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-152.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-153.jpg?raw=true"
+        ]
+      }
+    },
+	"57": {
+      "title": "Kiyohime",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-154.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-155.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-156.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-157.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-158.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-159.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-160.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-161.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-162.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-163.jpg?raw=true"
+        ]
+      }
+    },
+	"58": {
+      "title": "Eric Bloodaxe",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-164.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-165.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-166.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-167.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-168.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-169.jpg?raw=true"
+        ]
+      }
+    },
+	"59": {
+      "title": "Tamamo Cat",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-170.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-171.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-172.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-173.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-174.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-175.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-176.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-177.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-178.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-179.jpg?raw=true"
+        ]
+      }
+    },
+	"60": {
+      "title": "Jeanne d'Arc",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-180.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-181.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-182.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-183.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-184.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-185.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-186.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-187.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-188.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-189.jpg?raw=true"
+        ]
+      }
+    },
+	"61": {
+      "title": "Orion (Artemis)",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-190.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-191.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-192.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-193.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-194.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-195.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-196.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-197.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-198.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-199.jpg?raw=true"
+        ]
+      }
+    },
+	"62": {
+      "title": "Elisabeth Báthory (Halloween Caster)",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-200.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-201.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-202.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-203.jpg?raw=true"
+        ]
+      }
+    },
+	"63": {
+      "title": "Tamamo-no-Mae",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-204.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-205.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-206.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-207.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-208.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-209.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-210.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-211.jpg?raw=true"
+        ]
+      }
+    },
+	"64": {
+      "title": "David",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-212.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-213.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-214.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-215.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-216.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-217.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-218.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-219.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-220.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-221.jpg?raw=true"
+        ]
+      }
+    },
+	"65": {
+      "title": "Hektor",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-222.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-223.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-224.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-225.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-226.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-227.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-228.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-229.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-230.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-231.jpg?raw=true"
+        ]
+      }
+    },
+	"66": {
+      "title": "Francis Drake",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-232.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-233.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-234.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-235.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-236.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-237.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-238.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-239.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-240.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-241.jpg?raw=true"
+        ]
+      }
+    },
+	"67": {
+      "title": "Anne Bonny & Mary Read",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-242.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-243.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-244.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-245.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-246.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-247.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-248.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-249.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-250.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-251.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-252.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-253.jpg?raw=true"
+        ]
+      }
+    },
+	"68": {
+      "title": "Medea (Lily)",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-254.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-255.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-256.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-257.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-258.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-259.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-260.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-261.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-262.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-263.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-264.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-265.jpg?raw=true"
+        ]
+      }
+    },
+	"69": {
+      "title": "Okita Souji",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-266.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-267.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-268.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-269.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-270.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-271.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-272.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-273.jpg?raw=true"
+        ]
+      }
+    },
+	"70": {
+      "title": "Oda Nobunaga",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-274.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-275.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-276.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-277.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-278.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-279.jpg?raw=true"
+        ]
+      }
+    },
+	"71": {
+      "title": "Scáthach",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-280.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-281.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-282.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-283.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-284.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-285.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-286.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-287.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-288.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-289.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-290.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-291.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-292.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-293.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-294.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-295.jpg?raw=true"
+        ]
+      }
+    },
+	"72": {
+      "title": "Diarmuid Ua Duibhne",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-296.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-297.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-298.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-299.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-300.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-301.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-302.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-303.jpg?raw=true"
+        ]
+      }
+    },
+	"73": {
+      "title": "Fergus mac Róich",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-304.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-305.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-306.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-307.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-308.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-309.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-310.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-311.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-312.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-313.jpg?raw=true"
+        ]
+      }
+    },
+	"74": {
+      "title": "Artoria Pendragon (Santa Alter)",
+      "volume": "2",
+      "last_updated": "1469084400",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-314.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-315.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-316.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-317.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-318.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-II/i-319.jpg?raw=true"
+        ]
+      }
     }
+  }
 }
