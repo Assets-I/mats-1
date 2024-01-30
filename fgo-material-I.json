@@ -2857,7 +2857,7 @@
           "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/cover.jpeg?raw=true",
           "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-001.jpg?raw=true",
           "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-002.jpg?raw=true",
-          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-003.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-003.jpg?raw=true"
         ]
       }
     },
@@ -3466,6 +3466,25 @@
       }
     },
 	"186": {
+      "title": "Parvati",
+      "volume": "5",
+      "last_updated": "1533193200",
+      "groups": {
+        "©TYPE-MOON": [
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-338.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-339.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-340.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-341.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-342.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-343.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-344.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-345.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-346.jpg?raw=true",
+          "https://github.com/Assets-I/Materials/blob/main/fgo-material-V/i-347.jpg?raw=true"
+        ]
+      }
+    },
+	"187": {
       "title": "Parvati",
       "volume": "5",
       "last_updated": "1533193200",
